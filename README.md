@@ -4,7 +4,7 @@ MSSA Project
 ## Project Step 17 - Test Readiness Review (TRR)
 ### Continuing with the implementation phase of the SDLC, and using Test Driven Development (TDD) leads to a pattern of recursive test-fix-test activities.
 
-## Updated requirement(indicating which have been implemented, tested, passing (and when), or failing, and method of test.)
+### Updated requirement(indicating which have been implemented, tested, passing (and when), or failing, and method of test.)
 
 | Requirement ID | Requirement Description | Test Procedure | Test Result | Notes |
 | -------------: | :---------------------- | :------------: | :---------: | :---: |
