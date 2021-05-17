@@ -40,6 +40,8 @@ lessons learned:
 4. what would you change? 
 5. what do you know now that you wish you knew "then"?
 
+[Back to the top](https://github.com/yanxu2021/ExploreCalifornia/blob/main/README.md)
+
 For questions, reporting bugs, or general technical support, please contact me at...
 -----------------------
 Email: yan.xu2021@outlook.com
