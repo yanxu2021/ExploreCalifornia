@@ -27,3 +27,21 @@ MSSA Project
 
 
 [Back to the top](https://github.com/yanxu2021/ExploreCalifornia/blob/main/README.md)
+
+## Project Step 18 - Final Presentation(Product Release / Project Presentation)
+### This is the starting point for your presentation. 
+
+### Describe project experience including each phase of the SDLC and the project artifacts (design documents, requirements trace, test reports...) code and architecture walk-through
+### product demonstration
+lessons learned:
+1. what did you do right?
+2. what did you do wrong?
+3. where were you lucky?
+4. what would you change? 
+5. what do you know now that you wish you knew "then"?
+
+For questions, reporting bugs, or general technical support, please contact me at...
+-----------------------
+Email: yan.xu2021@outlook.com
+
+[Back To Top](#toc)
