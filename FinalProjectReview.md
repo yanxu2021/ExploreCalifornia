@@ -30,12 +30,10 @@
 [Back to the top](https://github.com/yanxu2021/ExploreCalifornia/blob/main/README.md)
 
 ## ※Project Step 18 - Final Presentation(Product Release / Project Presentation)
-### This is the starting point for your presentation. 
-
-### Describe project experience including each phase of the SDLC and the project artifacts (design documents, requirements trace, test reports...) code and architecture walk-through
-### product demonstration
-### lessons learned:
-### 1. what did you do right?
+### 1. This is the starting point for your presentation. Describe project experience including each phase of the SDLC and the project artifacts (design documents, requirements trace, test reports...) code and architecture walk-through.
+### 2. product demonstration
+### 3. lessons learned
+### 3.1 what did you do right?
 <p><b>Pages folder</b> 
   <ul>Contains Razor pages and supporting files. </ul>
   <ul>Each Razor page is a pair of files:</ul>
@@ -48,10 +46,10 @@
 <p><b>Program.cs</b> Contains the entry point for the app. </p>
 <p><b>Startup.cs</b> Contains code that configures app behavior. </p>
 
-### 2. what did you do wrong?
-### 3. where were you lucky?
-### 4. what would you change? 
-### 5. what do you know now that you wish you knew "then"?
+### 3.2 what did you do wrong?
+### 3.3 where were you lucky?
+### 3.4 what would you change? 
+### 3.5 what do you know now that you wish you knew "then"?
 
 [Back to the top](https://github.com/yanxu2021/ExploreCalifornia/blob/main/README.md)
 
