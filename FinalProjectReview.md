@@ -34,6 +34,7 @@
 ### 2. product demonstration
 ### 3. lessons learned
 ### 3.1 what did you do right?
+<p>Code first, base on the book example-online store to familar with ASP.NET's stuctures. </p>
 <p><b>Pages folder</b> 
   <ul>Contains Razor pages and supporting files. </ul>
   <ul>Each Razor page is a pair of files:</ul>
