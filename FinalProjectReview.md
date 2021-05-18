@@ -35,11 +35,11 @@ MSSA Project
 ### product demonstration
 lessons learned:
 1. what did you do right?
-|Pages folder|Contains Razor pages and supporting files. Each Razor page is a pair of files:A .cshtml file that has HTML markup with C# code using Razor syntax.A .cshtml.cs file that has C# code that handles page events.Supporting files have names that begin with an underscore. For example, the _Layout.cshtml file configures UI elements common to all pages. This file sets up the navigation menu at the top of the page and the copyright notice at the bottom of the page.|
-|wwwroot folder|Contains static assets, like HTML files, JavaScript files, and CSS files.|
-|appsettings.json|Contains configuration data, like connection strings. |
-|Program.cs|Contains the entry point for the app. |
-|Startup.cs|Contains code that configures app behavior. |
+<p>Pages folder-Contains Razor pages and supporting files. Each Razor page is a pair of files:A .cshtml file that has HTML markup with C# code using Razor syntax.A .cshtml.cs file that has C# code that handles page events.Supporting files have names that begin with an underscore. For example, the _Layout.cshtml file configures UI elements common to all pages. This file sets up the navigation menu at the top of the page and the copyright notice at the bottom of the page.</p>
+<p>wwwroot folder-Contains static assets, like HTML files, JavaScript files, and CSS files.</p>
+<p>appsettings.json-Contains configuration data, like connection strings. </p>
+<p>Program.cs-Contains the entry point for the app. </p>
+<p>Startup.cs-Contains code that configures app behavior. </p>
 
 3. what did you do wrong?
 4. where were you lucky?
