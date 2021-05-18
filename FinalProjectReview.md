@@ -34,7 +34,7 @@
 ### 2. product demonstration
 ### 3. lessons learned
 ### 3.1 what did you do right?
-<p>Code first, base on the book example-online store to familar with ASP.NET's stuctures. </p>
+<p>Learn and implement web API from the very begninning but important point like the folder names of all MVC applications are the same. The MVC framework is based on the default naming. The controller is written in the Controllers folder, the view is written in the Views folder, and the model is written in the Models folder. The standardized naming reduces the amount of code and at the same time helps developers understand the MVC project.</p>
 <p><b>Pages folder</b> 
   <ul>Contains Razor pages and supporting files. </ul>
   <ul>Each Razor page is a pair of files:</ul>
