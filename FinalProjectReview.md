@@ -1,4 +1,6 @@
 # ※MSSA Project-ExploreCalifornia※
+## *ExploreCalifornia* is a traval blog web application with in progress that will be built using ASP.NET MVC, Azure SQL Server database, and Azure Cloud hosting. 
+
 
 ![logo](https://github.com/yanxu2021/ExploreCalifornia/blob/main/image/removebg%20logo.png)
 
