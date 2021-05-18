@@ -1,7 +1,8 @@
-# ExploreCalifornia
-MSSA Project
+# MSSA Project-ExploreCalifornia
 
-## Project Step 17 - Test Readiness Review (TRR)
+![logo](https://github.com/yanxu2021/ExploreCalifornia/blob/main/image/removebg%20logo.png)
+
+## ※Project Step 17 - Test Readiness Review (TRR)
 ### Continuing with the implementation phase of the SDLC, and using Test Driven Development (TDD) leads to a pattern of recursive test-fix-test activities.
 
 ### Updated requirement(indicating which have been implemented, tested, passing (and when), or failing, and method of test.)
@@ -28,7 +29,7 @@ MSSA Project
 
 [Back to the top](https://github.com/yanxu2021/ExploreCalifornia/blob/main/README.md)
 
-## Project Step 18 - Final Presentation(Product Release / Project Presentation)
+## ※Project Step 18 - Final Presentation(Product Release / Project Presentation)
 ### This is the starting point for your presentation. 
 
 ### Describe project experience including each phase of the SDLC and the project artifacts (design documents, requirements trace, test reports...) code and architecture walk-through
