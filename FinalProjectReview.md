@@ -35,7 +35,8 @@ MSSA Project
 ### product demonstration
 lessons learned:
 1. what did you do right?
-<p><b><ul>Pages folder</b> Contains Razor pages and supporting files. </ul>
+<p><b>Pages folder</b> 
+  <ul>Contains Razor pages and supporting files. </ul>
   <ul>Each Razor page is a pair of files:</ul>
   <ul>A .cshtml file that has HTML markup with C# code using Razor syntax.</ul>
   <ul>A .cshtml.cs file that has C# code that handles page events.Supporting files have names that begin with an underscore. </ul>
