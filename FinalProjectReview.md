@@ -31,9 +31,9 @@
 
 ## ※Project Step 18 - Final Presentation(Product Release / Project Presentation)※
 ### 1. This is the starting point for your presentation. Describe project experience including each phase of the SDLC and the project artifacts (design documents, requirements trace, test reports...) code and architecture walk-through.
-### 2. product demonstration
-### 3. lessons learned
-### 3.1 what did you do right?
+### 2. Product demonstration
+### 3. Lessons learned
+### 3.1 What did you do right?
 <p>Learn and implement web API from the very begninning but important point like the folder names of all MVC applications are the same. The MVC framework is based on the default naming. The controller is written in the Controllers folder, the view is written in the Views folder, and the model is written in the Models folder. The standardized naming reduces the amount of code and at the same time helps developers understand the MVC project.</p>
 <p><b>Pages folder</b> 
   <ul>Contains Razor pages and supporting files. </ul>
@@ -47,10 +47,10 @@
 <p><b>Program.cs</b> Contains the entry point for the app. </p>
 <p><b>Startup.cs</b> Contains code that configures app behavior. </p>
 
-### 3.2 what did you do wrong?
-### 3.3 where were you lucky?
-### 3.4 what would you change? 
-### 3.5 what do you know now that you wish you knew "then"?
+### 3.2 What did you do wrong?
+### 3.3 Where were you lucky?
+### 3.4 What would you change? 
+### 3.5 What do you know now that you wish you knew "then"?
 
 [Back to the top](https://github.com/yanxu2021/ExploreCalifornia/blob/main/README.md)
 
