@@ -38,8 +38,8 @@ lessons learned:
 <p><b>Pages folder</b> 
   <ul>Contains Razor pages and supporting files. </ul>
   <ul>Each Razor page is a pair of files:</ul>
-  <ul>A .cshtml file that has HTML markup with C# code using Razor syntax.</ul>
-  <ul>A .cshtml.cs file that has C# code that handles page events.Supporting files have names that begin with an underscore. </ul>
+  <ul><b>A .cshtml</b> file that has HTML markup with C# code using Razor syntax.</ul>
+  <ul><b>A .cshtml.cs</b> file that has C# code that handles page events.Supporting files have names that begin with an underscore. </ul>
   <ul>For example, the _Layout.cshtml file configures UI elements common to all pages. </ul>
   <ul>This file sets up the navigation menu at the top of the page and the copyright notice at the bottom of the page.</ul></p>
 <p><b>wwwroot folder</b> Contains static assets, like HTML files, JavaScript files, and CSS files.</p>
