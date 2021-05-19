@@ -2,7 +2,9 @@
 ## MSSA Project
 
 ![logo](https://github.com/yanxu2021/ExploreCalifornia/blob/main/image/removebg%20logo.png)
-<p>ExploreCalifornia will be CRUD application. Crud means create, read, update, and delete from database. I'll create all the forms the website and the database that makes it all happen. In the database the user will be able to search for the journeys they created.</p>
+### ExploreCalifornia will be CRUD application. Crud means create, read, update, and delete from database. I'll create all the forms the website and the database that makes it all happen. In the database the user will be able to search for the journeys they created.
+### Why ASP.NET?ASP.NET's code-behind model marks a departure from Classic ASP in that it encourages developers to build applications with separation of presentation and content in mind. 
+### Why MVC?User->Router->-><-View-><-Controller-><-Model-><-Database
 
 ![1](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/1.JPG)
 ![2](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/2.JPG)
