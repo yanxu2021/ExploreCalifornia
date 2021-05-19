@@ -33,7 +33,7 @@
 
 ## ※Project Step 18 - Final Presentation(Product Release / Project Presentation)※
 ### 1. This is the starting point for the presentation. Describe project experience including each phase of the SDLC and the project artifacts (design documents, requirements trace, test reports...) code and architecture walk-through.
-### 2. Product DEMONSTRATION.
+### 2. Project DEMONSTRATION.
 ### 3. Lessons LEARNED.
 <P>The lesson I learned from this project is “There is always a gap between ideal and reality, fortunately there exists the differences, otherwise, who will care about ideal?” </P>
 <P>The original idea for my project was to create a game web API, I was thinking to explore more about the algorithm using C# language. At that moment, I was even not quite sure what is the web API means. I know it is Application Programming Interface for the Web. But specifically, what it is and how to create a one, honestly, I still feel hard to explain and to implement one. Similar, there are lots of concepts I did not make them clear enough especially something related to the project design (regarding to the software development flow) and ASP.NET. </P>
