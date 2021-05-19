@@ -65,7 +65,7 @@ I have the improvement list as below to further polish this website:
 <ol><li>Show Journey owner, edit date and time. </li>
 <li>Set up categories: public and private journey. </li>
 <li>Hide the private journey. </li>
-<li>Extended Create to blog function.</li>
+<li>Extended Create to blog/photo gallery function.</li>
 <li>Allow comment and share for public journey.</li>
 <li>Show top rated journeys base on the user location on homepage(after login).</li>
 <li>Insert the Google map function. </li>
