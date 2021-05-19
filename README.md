@@ -1,7 +1,8 @@
 # ExploreCalifornia
-MSSA Project
+## MSSA Project
+
 ![logo](https://github.com/yanxu2021/ExploreCalifornia/blob/main/image/removebg%20logo.png)
-<p>
+
 ![1](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/1.JPG)
 ![2](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/2.JPG)
 ![3](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/3.JPG)
@@ -20,4 +21,4 @@ MSSA Project
 ![16](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/16Details.JPG)
 ![17](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/17Delete.JPG)
 ![18](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/18In%20controller%20use%20add%20view%20function%20to%20automatically%20creat%20Search.JPG)
-</p>
+
