@@ -41,9 +41,8 @@
 <P> “More haste, less speed”, after project step 16(Yes! I was hesitating and lost a lot of time), I finally decided to move forward to something SIMPLE but still using the core knowledge from the class and the textbook, which means I am going to use <b>my Lab Solution</b> as template, and keep learning more about the basics until I am fully understand each part and switch that into something with my new idea because I have to narrow down my scope, not overwhelm myself, do more practices, and the same time, don't lose my passion on software engineering. </P>
 
 ### 3.1 What did you do RIGHT?
-<p> The right thing I did is “fail but start the project again” and outlined the tasks need to do. To me, this project turned out more like course review and summarize about what I learned from MSSA. I can conclude my project now with the terms as below:</p>
-<ul>
-<li>ASP.NET Core-A framework using C#, it is runtime environment. 
+<p>The right thing I did is “fail but start the project again” and outlined the tasks need to do. To me, this project turned out more like course review and summarize about what I learned from MSSA. I can conclude my project now with the terms as below:</p>
+<ul><li>ASP.NET Core-A framework using C#, it is runtime environment. 
 <ul><li>ASP stands for Active Server Parses, which is simple means dynamic web pages, usually connected to a database. </li>
 <li>.NET is Microsoft’s software development platform since 2001. .NET 5 is a unified platform. .NET is not a language, and it consists of runtime engine and libraries for executing programs written in a compliant language. </li>
 <li>Core means open source, cross-platform version of ASP. </li></ul>
@@ -51,23 +50,20 @@
 <li>Database setup-CRUD and ORM. </li>
 <li>Registration, login, and security. </li>
 <li>Search the database-database query. </li>
-<li>Work with HTML/CSS/JavaScript to build the web pages. </li>
-
+<li>Work with HTML/CSS/JavaScript to build the web pages. </li></ul>
 
 ### 3.2 What did you do WRONG?
 ### 3.3 Where were you LUCKY?
-
+<p>I was lucky because everybody from this class they share a lot and when I was about to quit, I was inspired from other’s improvement.  And I was super doubt with ASP.NET, feel like I cannot get the right track in this complex platform, but ERAU give us a lot of resources, after continue reading and studying finally I do feel I am lucky I have chance to get familiar with this platform. </p>
 ### 3.4 What would you CHANGE? What do you know now that you wish you knew "THEN"?
 I have the improvement list as below to further polish this website:
-<ol>
-<li>Show Journey owner. </li>
+<ol><li>Show Journey owner. </li>
 <li>Set up categories: public and private journey. </li>
 <li>Hide the private journey. </li>
 <li>Insert the Google map function. </li>
 <li>Find the solution to create your journey map. </li>
 <li>Create “Add” function to create a journey plan. </li>
-<li>Continue the webpage improvement by HTML/CSS/JavaScript.</li>
-</ol>
+<li>Continue the webpage improvement by HTML/CSS/JavaScript.</li></ol>
 
 [Back to the top](https://github.com/yanxu2021/ExploreCalifornia/blob/main/README.md)
 
