@@ -41,7 +41,7 @@
 <P> “More haste, less speed”, after project step 16(Yes! I was hesitating and lost a lot of time), I finally decided to move forward to something SIMPLE but still using the core knowledge from the class and the textbook, which means I am going to use <b>my Lab Solution</b> as template, and keep learning more about the basics until I am fully understand each part and switch that into something with my new idea because I have to narrow down my scope, not overwhelm myself, do more practices, and the same time, don't lose my passion on software engineering. </P>
 
 ### 3.1 What did you do RIGHT?
-<p> The right thing I did is “fail but start the project again” and outlined the tasks need to do. To me, this project turn out more like course review and summarize what I learned from MSSA. I can conclude my project now with the terms as below:</p>
+<p> The right thing I did is “fail but start the project again” and outlined the tasks need to do. To me, this project turned out more like course review and summarize about what I learned from MSSA. I can conclude my project now with the terms as below:</p>
 <ul>
 <li>ASP.NET Core-A framework using C#, it is runtime environment. 
 <ul><li>ASP stands for Active Server Parses, which is simple means dynamic web pages, usually connected to a database. </li>
