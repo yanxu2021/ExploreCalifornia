@@ -32,7 +32,7 @@
 [Back to the top](https://github.com/yanxu2021/ExploreCalifornia/blob/main/README.md)
 
 ## ※Project Step 18 - Final Presentation(Product Release / Project Presentation)※
-### 1. This is the starting point for your presentation. Describe project experience including each phase of the SDLC and the project artifacts (design documents, requirements trace, test reports...) code and architecture walk-through.
+### 1. This is the starting point for the presentation. Describe project experience including each phase of the SDLC and the project artifacts (design documents, requirements trace, test reports...) code and architecture walk-through.
 ### 2. Product demonstration
 ### 3. Lessons learned
 <P>The lesson I learned from this project is “There is always a gap between ideal and reality, fortunately there exists the differences, otherwise, who will care about ideal?”</P>
