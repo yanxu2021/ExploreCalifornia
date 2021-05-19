@@ -53,6 +53,9 @@
 <li>Work with HTML/CSS/JavaScript to build the web pages. </li></ul>
 
 ### 3.2 What did you do WRONG?
+<p>I did not do that much research when I pick the project topic. In the beginning, I did not prepare well to study the ASP.NET platform. So, once I realize I stuck somewhere, I got overwhelmed. </p>
+<p>I do not understand using MVC, Entity Framework, and ASP.NET Scaffolding, I can create a web application that provides an interface to an existing database. I manually create the database the same time rigidly follow the book/Microsoft doc’s steps, I got the messed-up project. </p>
+<p>I am not good designer; I changed my mind very easily. During this whole process, I change my project scope so many times that I even forgot what I planned or supposed to finish, I am so confused what I really want to do from this project. Now I realize, all requirements wrote down are necessary, even it is supposed to be dynamic, but consistency is critical for the project. And I think that is why later we have got sprint plan to help us out of this kind of issues. </p>
 
 ### 3.3 Where were you LUCKY?
 <p>I was lucky because everybody from this class they share a lot and when I was about to quit, I was inspired from other’s improvement.  And I was super doubt with ASP.NET, feel like I cannot get the right track in this complex platform, but ERAU give us a lot of resources, after continue reading and studying finally I do feel I am lucky I have chance to get familiar with this platform. </p>
