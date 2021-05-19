@@ -21,4 +21,11 @@
 ![16](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/16Details.JPG)
 ![17](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/17Delete.JPG)
 ![18](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/18In%20controller%20use%20add%20view%20function%20to%20automatically%20creat%20Search.JPG)
+![19](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/19Research.JPG)
+![20](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/20Return%20Search%20Results.JPG)
+![21](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/21Registration%20Confirmation.JPG)
+![22](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/22Login.JPG)
+![23](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/17Delete.JPG)
+![24](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/17Delete.JPG)
+
 
