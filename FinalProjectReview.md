@@ -58,7 +58,7 @@
 <p>I am not good designer; I changed my mind very easily. During this whole process, I change my project scope so many times that I even forgot what I planned or supposed to finish, I am so confused what I really want to do from this project. Now I realize, all requirements wrote down are necessary, even it is supposed to be dynamic, but consistency is critical for the project. And I think that is why later we have got sprint plan to help us out of this kind of issues. </p>
 
 ### 3.3 Where were you LUCKY?
-<p>I was lucky because everybody from this class they share a lot and when I was about to quit, I was inspired from other’s improvement.  And I was super doubt with ASP.NET, feel like I cannot get the right track in this complex platform, but ERAU give us a lot of resources, after continue reading and studying finally I do feel I am lucky I have chance to get familiar with this platform. </p>
+<p>I was lucky because everybody from this class they share a lot and when I was about to quit, I was inspired from other’s improvement.  And I was super doubt with ASP.NET at first, feel like I cannot get the right track within this complex platform, but ERAU give us a lot of resources, after continue reading and studying finally I do feel I am lucky I have chance to get familiar with this platform. </p>
 
 ### 3.4 What would you CHANGE? What do you know now that you wish you knew "THEN"?
 I have the improvement list as below to further polish this website:
