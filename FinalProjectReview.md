@@ -56,6 +56,7 @@
 
 ### 3.2 What did you do WRONG?
 ### 3.3 Where were you LUCKY?
+
 ### 3.4 What would you CHANGE? What do you know now that you wish you knew "THEN"?
 I have the improvement list as below to further polish this website:
 <ol>
@@ -65,6 +66,7 @@ I have the improvement list as below to further polish this website:
 <li>Insert the Google map function. </li>
 <li>Find the solution to create your journey map. </li>
 <li>Create “Add” function to create a journey plan. </li>
+<li>Continue the webpage improvement by HTML/CSS/JavaScript.</li>
 </ol>
 
 [Back to the top](https://github.com/yanxu2021/ExploreCalifornia/blob/main/README.md)
