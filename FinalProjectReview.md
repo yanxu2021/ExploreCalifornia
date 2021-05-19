@@ -74,7 +74,7 @@ I have the improvement list as below to further polish this website:
 <li>Create “Add” function to create a journey plan. </li>
 <li>Deploy the .NET app and SQL database to Azure App Service. </li>
 <li>Continue the webpage improvement by HTML/CSS/JavaScript.</li></ol>
-
+<p>More...</p>
 
 [Back to the top](https://github.com/yanxu2021/ExploreCalifornia/blob/main/README.md)
 
