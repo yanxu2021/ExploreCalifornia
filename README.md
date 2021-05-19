@@ -13,7 +13,7 @@
 ![8](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/8Use%20Package%20Manager%20Console%20to%20add%20migration%20named%20initialsetup.JPG)
 ![9](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/9Use%20ORM%20to%20do%20the%20amazing%20job.JPG)
 ![10](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/10Check%20the%20tables.JPG)
-![11](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/11.JPG)
+![11](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/11Automated%20created%20table%20without%20knowing%20T-SQL.JPG)
 ![12](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/12.JPG)
 ![13](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/13Create.JPG)
 ![14](https://github.com/yanxu2021/ExploreCalifornia/blob/main/report/14Index.JPG)
