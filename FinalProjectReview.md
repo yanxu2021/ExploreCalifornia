@@ -62,7 +62,7 @@
 
 ### 3.4 What would you CHANGE? What do you know now that you wish you knew "THEN"?
 I have the improvement list as below to further polish this website:
-<ol><li>Show Journey owner, edit date and time. </li>
+<ol><li>Show Journey owner, show caliendar, show the user edit date and time. </li>
 <li>Set up categories: public and private journey. </li>
 <li>Hide the private journey. </li>
 <li>Extended Create to blog/photo gallery function.</li>
