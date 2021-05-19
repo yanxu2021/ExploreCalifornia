@@ -53,6 +53,7 @@
 <li>Work with HTML/CSS/JavaScript to build the web pages. </li></ul>
 
 ### 3.2 What did you do WRONG?
+
 ### 3.3 Where were you LUCKY?
 <p>I was lucky because everybody from this class they share a lot and when I was about to quit, I was inspired from other’s improvement.  And I was super doubt with ASP.NET, feel like I cannot get the right track in this complex platform, but ERAU give us a lot of resources, after continue reading and studying finally I do feel I am lucky I have chance to get familiar with this platform. </p>
 ### 3.4 What would you CHANGE? What do you know now that you wish you knew "THEN"?
@@ -63,7 +64,9 @@ I have the improvement list as below to further polish this website:
 <li>Insert the Google map function. </li>
 <li>Find the solution to create your journey map. </li>
 <li>Create “Add” function to create a journey plan. </li>
+<li>Deploy the .NET app and SQL database to Azure App Service.</li>
 <li>Continue the webpage improvement by HTML/CSS/JavaScript.</li></ol>
+
 
 [Back to the top](https://github.com/yanxu2021/ExploreCalifornia/blob/main/README.md)
 
