@@ -67,6 +67,7 @@ I have the improvement list as below to further polish this website:
 <li>Hide the private journey. </li>
 <li>Insert the Google map function. </li>
 <li>Find the solution to create your journey map. </li>
+<li>Add subscribe us function.</li>
 <li>Create “Add” function to create a journey plan. </li>
 <li>Deploy the .NET app and SQL database to Azure App Service. </li>
 <li>Continue the webpage improvement by HTML/CSS/JavaScript.</li></ol>
