@@ -81,5 +81,6 @@ I have the improvement list as below to further polish this website:
 For questions, reporting bugs, or general technical support, please contact me at...
 -----------------------
 Email: yan.xu2021@outlook.com
+![contact](https://github.com/yanxu2021/ExploreCalifornia/blob/main/image/contact.JPG)
 
 [Back To Top](#toc)
