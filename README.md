@@ -2,7 +2,7 @@
 ## MSSA Project
 
 ![logo](https://github.com/yanxu2021/ExploreCalifornia/blob/main/image/removebg%20logo.png)
-### CRUD application. 
+### CRUD Application. 
 
 - Crud means create, read, update, and delete from database. 
 - In the database the user will be able to search for the journeys they created. 
